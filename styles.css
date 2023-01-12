@@ -1,0 +1,54 @@
+h1 {
+	background-color: darkgrey;
+	text-align: center;
+}
+label {
+	margin-top: 10px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.pastRecord {
+	text-transform: uppercase;
+}
+
+.icons {
+	height: 84px;
+	width: 84px;
+}
+.card {
+	margin: 10px;
+}
+.col1 {
+	background-color: white;
+	/* darkkhaki */
+}
+.col2 {
+	background-color: rgb(255, 255, 255);
+}
+.recButton {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.orange{
+	background-color: orange;
+}
+.yellow{
+	background-color: yellow;
+}
+.red{
+	background-color: red;
+}
+.green{
+  background-color: lightgreen;
+}
+.purple{
+  background-color: purple;
+}
+.todayDate {
+	font-size: 20px;
+}
+.todayCity {
+	font-size: 40px;
+	padding: 15px;
+}
